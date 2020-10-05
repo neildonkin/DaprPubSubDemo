@@ -37,8 +37,8 @@
         <option value="$PROJECT_DIR$/DaprPubSub/tye.yaml" />
         <option value="$PROJECT_DIR$/DaprPubSub/Dapr commands.txt" />
         <option value="$PROJECT_DIR$/DaprPubSub/Startup.cs" />
-        <option value="$PROJECT_DIR$/DaprPubSub/Controllers/OrderController.cs" />
         <option value="$PROJECT_DIR$/components/secretstore.yaml" />
+        <option value="$PROJECT_DIR$/DaprPubSub/Controllers/OrderController.cs" />
       </list>
     </option>
   </component>
@@ -258,7 +258,7 @@
       <workItem from="1601640317248" duration="5119000" />
       <workItem from="1601715835922" duration="92000" />
       <workItem from="1601716090776" duration="362000" />
-      <workItem from="1601716518835" duration="3773000" />
+      <workItem from="1601716518835" duration="4189000" />
     </task>
     <servers />
   </component>
