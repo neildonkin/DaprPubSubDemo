@@ -28,7 +28,7 @@ namespace DaprPubSub.Controllers
             
             _logger.LogInformation($"Order processed: {order}");
 
-            //throw new ApplicationException("Test exception");
+            // throw new ApplicationException("Test exception");
             return Ok();
         }
     }
