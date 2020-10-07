@@ -5,6 +5,8 @@
 #    https://aka.ms/AA7q20u
 #
 name: daprpubsub
+extensions:
+  - name: dapr
 services:
 - name: daprpubsub
   project: DaprPubSub.csproj
