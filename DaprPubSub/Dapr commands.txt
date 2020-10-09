@@ -4,11 +4,3 @@ NOTE: you must be in the DaprPubSub project folder for this to work
 dapr run --app-id pubsub-demo --app-port 5000 --dapr-http-port 3500 dotnet run
 
 
-
-
-daprd --app-id pubsub-demo --app-port 5000 --dapr-http-port 3500 dotnet run
-
-
-
-
-dapr dashboard
