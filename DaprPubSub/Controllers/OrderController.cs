@@ -20,7 +20,7 @@ namespace DaprPubSub.Controllers
 
         // NOTE: "pubsub" in the first argument is the default pub/sub configured by the Dapr CLI (which is shown in the dapr dashboard)
         [Topic("pubsub", "ordertopic")]
-        [HttpPost("ordertopic")]
+        [HttpPost("order")]
         public IActionResult ProcessOrder(Order order)
         {
             //Process order placeholder
