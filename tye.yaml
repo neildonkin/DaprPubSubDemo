@@ -20,5 +20,5 @@ extensions:
   # components-path configures the components path of the dapr sidecard
   # components-path: "./components/"
 services:
-- name: daprpubsub
-  project: DaprPubSub.csproj
+- name: pubsub-demo
+  project: ./DaprPubSub/DaprPubSub.csproj
